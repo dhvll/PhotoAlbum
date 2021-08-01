@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+.Python
+*.sqlite3
+.idea/# Project asset folders
+media/# Database
+db.sqlite3# Editor directories and files
+.idea# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # Distribution / packaging
 .Python
 build/
